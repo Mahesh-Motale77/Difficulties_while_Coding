@@ -14,4 +14,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>Chatting application - MERN</td>
     <td>My development is about to finish, but am getting stuck today during socket io implementaton. I have tried but today it's doesn't work...</td>
   </tr>
+  <tr>
+    <td>19-20/05/2024</td>
+    <td>EXAM TIME</td>
+    <td>In the development journey there are some days, when u not doing any coding part. yesterday and today I am preparing for my my university exam, so didn't done any coding part...  </td>
+  </tr>
 </table>
