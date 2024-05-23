@@ -29,4 +29,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>Physical Condition</td>
     <td> Sometimes things are not working like we think, Today I am suffering from strong headack so not able to code .....   </td>
   </tr>
+   <tr>
+    <td>23/05/2024</td>
+    <td>Chatting application</td>
+    <td> Today also I stucked at socket.io problem. I have checked all things and done lots of try for connection, My browser console show connection successful also WebSocket is connected, but server console not showing connection successful...  </td>
+  </tr>
 </table>
