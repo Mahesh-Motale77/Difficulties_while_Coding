@@ -34,4 +34,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>Chatting application</td>
     <td> Today also I stucked at socket.io problem. I have checked all things and done lots of try for connection, My browser console show connection successful also WebSocket is connected, but server console not showing connection successful...  </td>
   </tr>
+  <tr>
+    <td>26-27/05/2024</td>
+    <td>Working Outside</td>
+    <td>I was outside the home whole day from morning to night, for some personal work, so Yesterday I was able to do any coding, and today also In our clg we have farewell, so I don't know how much time I get today for myself ...  </td>
+  </tr>
 </table>
