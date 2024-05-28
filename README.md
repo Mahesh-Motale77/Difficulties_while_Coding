@@ -39,4 +39,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>Working Outside</td>
     <td>I was outside the home whole day from morning to night, for some personal work, so Yesterday I was able to do any coding, and today also In our clg we have farewell, so I don't know how much time I get today for myself ...  </td>
   </tr>
+  <tr>
+    <td>28/05/2024</td>
+    <td>College Fairwell</td>
+    <td> Today is our Demartment farewell, So This are last days of college, We should enjoy it to. So Today also am not doing any coding part but I give my time full for coding after all this...  </td>
+  </tr>
 </table>
