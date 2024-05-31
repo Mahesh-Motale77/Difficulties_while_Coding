@@ -44,4 +44,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>College Fairwell</td>
     <td> Today is our Demartment farewell, So This are last days of college, We should enjoy it to. So Today also am not doing any coding part but I give my time full for coding after all this...  </td>
   </tr>
+   <tr>
+    <td>31/05/2024</td>
+    <td>BE project Complete</td>
+    <td> Today we have our BE project final presentation. Today was last day of our Engineering life.... So, all things will come and one day it will go... </td>
+  </tr>
 </table>
