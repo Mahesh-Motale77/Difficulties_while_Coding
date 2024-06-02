@@ -49,4 +49,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>BE project Complete</td>
     <td> Today we have our BE project final presentation. Today was last day of our Engineering life.... So, all things will come and one day it will go... </td>
   </tr>
+   <tr>
+    <td>02/06/2024</td>
+    <td>Chat Application</td>
+    <td>After all try, I didn't find issue in socket io. So, I decided to move to next project, and come to chat application again whenever my friend who know socket io come from home.</td>
+  </tr>
 </table>
