@@ -54,4 +54,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>Chat Application</td>
     <td>After all try, I didn't find issue in socket io. So, I decided to move to next project, and come to chat application again whenever my friend who know socket io come from home.</td>
   </tr>
+  <tr>
+    <td>03/06/2024</td>
+    <td>MERN Stack </td>
+    <td> From today I am starting my new journey in development. After all previous project failure, I am decided to start new small small innovative things, which are new to me also and you all also.... So Stay Tune...</td>
+  </tr>
 </table>
