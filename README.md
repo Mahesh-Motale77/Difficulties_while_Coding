@@ -59,4 +59,9 @@ Here I am writing all Difficulties which I faced During my Coding Journey also, 
     <td>MERN Stack </td>
     <td> From today I am starting my new journey in development. After all previous project failure, I am decided to start new small small innovative things, which are new to me also and you all also.... So Stay Tune...</td>
   </tr>
+  <tr>
+    <td>06/06/2024</td>
+    <td>Stucked</td>
+    <td> I am get stucked in lot of things on same time, so from some days am not doing good in development. I am making my Java concept stronger this days, so I think Let do whatever which is important, Java or development at there time...</td>
+  </tr>
 </table>
